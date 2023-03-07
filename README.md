@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Xavier 🖐️
 
 - 😎 Estudante da Faculdade FIAP
-- 🤓 Atualmente estudando JavaScript e aprofundando em Python
+- 🤓 Atualmente aprofundando em Python
 - ⚡ Fun fact: Viva a estética🔱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_wq17)
