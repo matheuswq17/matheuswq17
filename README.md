@@ -12,7 +12,7 @@
  
  🌱 Também sou **FREELANCER**
 
-💬 Da uma olhada no meu **PORTFOLIO, é só clicar👉 [AQUI](https://tinyutl.com/matheusXavier)**
+💬 Da uma olhada no meu **PORTFOLIO, é só clicar👉 [AQUI](https://tinyurl.com/matheusXavier)**
 
 ⚡ Fun fact **RATO DE ACADEMIA💪**
 
