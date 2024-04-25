@@ -12,7 +12,7 @@
  
  🌱 Também sou **FREELANCER**
 
-💬 Da uma olhada no meu **PORTFOLIO, é só clicar👉 [AQUI](https://www.linkedin.com/in/toledo-matheus/)**
+💬 Da uma olhada no meu **PORTFOLIO, é só clicar👉 [AQUI](https://tinyutl.com/matheusXavier)**
 
 ⚡ Fun fact **RATO DE ACADEMIA💪**
 
