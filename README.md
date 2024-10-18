@@ -53,10 +53,6 @@ Aqui estão alguns dos projetos mais interessantes que participei:
 
 ###
 
-<img src="https://raw.githubusercontent.com/matheuswq17/matheuswq17/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🤖 Conecte-se comigo!
 - [LinkedIn](https://www.linkedin.com/in/toledo-matheus)
 - [Email](mailto:matheusxavi57@gmail.com)
