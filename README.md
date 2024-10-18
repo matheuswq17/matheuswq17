@@ -15,10 +15,11 @@ Iniciei minha jornada no desenvolvimento em 2023 e desde então venho participan
 Aqui estão alguns dos projetos mais interessantes que participei:
 
 - **HelpTekProject**: Sistema de gerenciamento de documentos utilizando Java e Google Firestore, com funcionalidades de CRUD, desenvolvimento orientado a testes (TDD), e tratamento de exceções robusto.
-- Outros projetos podem ser encontrados no meu perfil [aqui](https://github.com/matheusxavi57).
+- Outros projetos podem ser encontrados no meu perfil [aqui](https://github.com/matheuswq17).
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuswq17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuswq17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=matheuswq17&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
