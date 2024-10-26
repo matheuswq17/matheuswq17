@@ -46,14 +46,6 @@ Aqui estão alguns dos projetos mais interessantes que participei:
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31aml5wx3xazmmuf32wywf6d35i4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aml5wx3xazmmuf32wywf6d35i4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ## 🤖 Conecte-se comigo!
 - [LinkedIn](https://www.linkedin.com/in/toledo-matheus)
 - [Email](mailto:matheusxavi57@gmail.com)
